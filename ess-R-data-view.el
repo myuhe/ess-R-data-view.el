@@ -6,7 +6,7 @@
 ;; Version: 0.1
 ;; Created: 2013-05-09
 ;; Keywords: convenience
-;; Package-Requires: ((ctable "20130313.1743") (popup "popup-20130324.1305") (ess "20130225.1754"))
+;; Package-Requires: ((ctable "20130313.1743") (popup "20130324.1305") (ess "20130225.1754"))
 ;; Copyright (C) 2013 myuhe
 
 ;; This program is free software; you can redistribute it and/or modify
