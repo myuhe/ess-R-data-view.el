@@ -2,7 +2,7 @@
   ess-R-data-view is data viewer for GNU R. It shows dataframe and matrix on table view.
 
 * Usage 
-  Put caret on a word that indicate dataframe or matrix, and  ==M-x ess-R-dv-ctable== or ==M-x ess-R-dv-pprint==.
+  Put caret on a word that indicate dataframe or matrix, and  =M-x ess-R-dv-ctable= or =M-x ess-R-dv-pprint=.
   So, it popups other buffer containing table.
 
   If its word is not dataframe or matrix, popup error message.
@@ -10,7 +10,7 @@
   [[./image/popup.png]]
 
 
-  ==ess-R-dv-ctable== and ==ess-R-dv-pprint==ess-R-data-view have different features. 
+  =ess-R-dv-ctable= and =ess-R-dv-pprint= have different features. 
   
   The first, =ess-R-dv-ctable= shows table in other buffer. It includes  border, and header is fixed.
   
